@@ -1,1 +1,1 @@
-Low level PageRank of Google.
+Low level PageRank.
